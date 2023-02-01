@@ -1,7 +1,8 @@
 # Rect & Circle
 
-| Content       | Link                               |
-|---------------|------------------------------------|
-| Fill-Rect     | [visit](./fill-rect/Readme.md)     |
-| Stroke-Rect   | [visit](./stroke-rect/Readme.md)   |
-| Stroke-Circle | [visit](./stroke-circle/Readme.md) |
+| Content       | Link                     |
+|---------------|--------------------------|
+| Fill-Rect     | [visit](./fill-rect)     |
+| Stroke-Rect   | [visit](./stroke-rect)   |
+| Fill-Circle   | [visit](./fill-circle)   |
+| Stroke-Circle | [visit](./stroke-circle) |
