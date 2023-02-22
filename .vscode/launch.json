@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/02-02-2023/fill-rect-animate/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/02-02-2023/fill-rect-animate/index.html"
+        }
+    ]
+}

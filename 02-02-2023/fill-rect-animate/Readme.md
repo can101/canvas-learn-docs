@@ -1,11 +1,8 @@
-# Fill Circle
-
-<img src="./img_1.png">
+# Fill rect animation
 
 ```js
-ctx.strokeStyle = 'color_code';
-ctx.arc(x_cordinate, y_cordinate, radius, startAngle, endAngle, counterclockwise);
-ctx.fill();
+ctx.fillStyle = `rgb({0-255},{0-255},{0-255},{0-1})`;
+ctx.fillRect(x,y,h,w);
 ```
 
 
